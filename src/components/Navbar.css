@@ -1,0 +1,33 @@
+.navbarWrapper {
+    text-align: center;
+    font-weight: 300;
+}
+.navbarWrapper p {
+    font-family: 'Advent Pro', sans-serif;
+    color: #a4a4a4;
+    font-weight: 100;
+}
+
+.navbarWrapper .td {
+    color: #e5e5e5;
+    font-weight: 200;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar h1 {
+    letter-spacing: 5px;
+}
+
+.icon {
+    font-size: 2rem;
+    color: #771efc;
+}
+
+.purple {
+    color: #771efc;
+}
